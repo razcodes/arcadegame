@@ -1,7 +1,5 @@
 ![Picture of the game](https://github.com/razcodes/arcadegame/blob/master/images/frogger.png?raw=true)
 
-(Can be played online [HERE](https://razrimon.000webhostapp.com/frogger/index.html))
-
 ## Classic Arcade Game Clone Project
 This is my version of the classic 'Frogger'.
 

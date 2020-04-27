@@ -1,4 +1,5 @@
 ![Picture of the game](https://github.com/razcodes/arcadegame/blob/master/images/frogger.png?raw=true)
+
 https://frogger-a457b.web.app/
 
 ## Classic Arcade Game Clone Project

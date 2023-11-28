@@ -1,6 +1,6 @@
-![Picture of the game](https://razcodes.github.io/arcadegame/)
+![Picture of the game](https://github.com/razcodes/arcadegame/blob/master/images/frogger.png?raw=true)
 
-https://frogger-a457b.web.app/
+[Play it here!](https://razcodes.github.io/arcadegame/)
 
 ## Classic Arcade Game Clone Project
 This is my version of the classic 'Frogger'.

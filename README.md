@@ -1,4 +1,4 @@
-![Picture of the game](https://github.com/razcodes/arcadegame/blob/master/images/frogger.png?raw=true)
+![Picture of the game](https://razcodes.github.io/arcadegame/)
 
 https://frogger-a457b.web.app/
 
